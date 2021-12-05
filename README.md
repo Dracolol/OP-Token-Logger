@@ -1,5 +1,5 @@
 
-Discord-Info-Logger
+OP-Discord-Token-Logger
 A free, efficient, and open-source discord token logger, that also grabs cookies, passwords, and intercepts bitcoin addresses. This is purely for demonstration/educational purposes.
 
 Setup
