@@ -8,6 +8,6 @@ Depending on your python installation your commands may vary. Below are the comm
 Windows:
 
 git clone https://github.com/Dracolol/OP-Token-Logger/blob/main/README.md
-cd Discord-Info-Logger
-pip install -r requirements.txt
-py TokenLogger.py
+cd OP-Token-Logger
+pip install -r OP-Token-Logger
+py OP TOKEN LOGGER
